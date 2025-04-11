@@ -17,4 +17,3 @@ def test_get_bmi_category():
     assert get_bmi_category(22) == "Normal"
     assert get_bmi_category(27) == "Overweight"
     assert get_bmi_category(32) == "Obese"
-    
