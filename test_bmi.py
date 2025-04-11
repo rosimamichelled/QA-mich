@@ -1,4 +1,4 @@
-
+import pytest
 from bmi import calculate_bmi, get_bmi_category
 
 
